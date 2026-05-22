@@ -13,12 +13,8 @@ struct ContentView: View {
             Image(systemName: "cloud")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text("Thunda Struck")
+            Text("Cloud")
         }
         .padding()
     }
-}
-
-#Preview {
-    ContentView()
 }
