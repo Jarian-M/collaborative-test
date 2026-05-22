@@ -13,7 +13,7 @@ struct ContentView: View {
             Image(systemName: "cloud")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text("Blue Cloud")
+            Text("Red Cloud")
         }
         .padding()
     }
